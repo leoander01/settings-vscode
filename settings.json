@@ -1,0 +1,26 @@
+{
+  // editor
+  "editor.tabSize": 2,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 16,
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  // "editor.formatOnPaste": true,
+  // "editor.formatOnSave": true,
+  "editor.autoClosingBrackets": "always",
+  "editor.autoClosingDelete": "auto",
+  "editor.autoClosingQuotes": "always",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.matchBrackets": "always",
+  "editor.renderLineHighlight": "gutter",
+  "editor.trimAutoWhitespace": true,
+  "editor.suggest.preview": true,
+  "editor.tabCompletion": "on",
+  "editor.autoIndent": "full",
+  "editor.parameterHints.enabled": false,
+  "editor.cursorBlinking": "expand",
+  "editor.rulers": [
+    120
+  ],
+  "editor.guides.bracketPairs": true,
+}
